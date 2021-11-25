@@ -1,0 +1,6 @@
+D:\EverGreenTech\CertificateCreator\CertificateCreator\bin\Debug\CertificateCreator.exe
+D:\EverGreenTech\CertificateCreator\CertificateCreator\bin\Debug\CertificateCreator.pdb
+D:\EverGreenTech\CertificateCreator\CertificateCreator\obj\x86\Debug\CertificateCreator.csprojAssemblyReference.cache
+D:\EverGreenTech\CertificateCreator\CertificateCreator\obj\x86\Debug\CertificateCreator.csproj.CoreCompileInputs.cache
+D:\EverGreenTech\CertificateCreator\CertificateCreator\obj\x86\Debug\CertificateCreator.exe
+D:\EverGreenTech\CertificateCreator\CertificateCreator\obj\x86\Debug\CertificateCreator.pdb
